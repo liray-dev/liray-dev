@@ -16,7 +16,7 @@
 
 - ...
 - ⚡ I enjoy programming.
-- ☕ I love Java.
+- ☕ I love Java and OpenGL.
 - 🎮 I like create and modifying games.
 - 📫 You can reach me on **[VK](https://vk.com/david715)**.
 - ⚡ Fun fact: I like the PS2 games as well as the toads 🎮🐸.
@@ -28,8 +28,11 @@
 
 <h1 align="center">Tech stack</h1>
 
+- OpenGL 📹
 - Java ☕
   - Spring 🍃
+  - LWJGL2
+  - LWJGL3
   - Forge API
   - Fabric API
   - MCP 
