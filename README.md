@@ -18,7 +18,7 @@
 - ⚡ I enjoy programming.
 - ☕ I love Java and OpenGL.
 - 🎮 I like create and modifying games.
-- 📫 You can reach me on **[VK](https://vk.com/david715)**.
+- 📫 You can reach me on **[VK](https://vk.com/liray00)**.
 - ⚡ Fun fact: I like the PS2 games as well as the toads 🎮🐸.
 - ...
 
